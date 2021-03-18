@@ -12,7 +12,7 @@
 ##### Cha mẹ mãi nhớ về ngày cưới
 ##### Ngày đầu tiên đẹp nhất trên đời.
 ##### 
-##### Người đồng mình thương lắm con ơi.                     => NT : Điệp cấu trúc
+##### Người đồng mình thương lắm con ơi.                    [COLOR red][B]=> NT : Điệp cấu trúc[/B][/COLOR]
 ##### Cao đo nỗi buồn
 ##### Xa nuôi chí lớn
 Dẫu làm sao thì cha vẫn muốn
