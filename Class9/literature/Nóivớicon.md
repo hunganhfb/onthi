@@ -9,15 +9,15 @@
 ##### Vách nhà ken câu hát
 ##### Rừng cho hoa
 ##### Con đường cho những tấm lòng
-Cha mẹ mãi nhớ về ngày cưới
-Ngày đầu tiên đẹp nhất trên đời.
-
-Người đồng mình thương lắm con ơi.                    ####### => NT : Điệp cấu trúc
+##### Cha mẹ mãi nhớ về ngày cưới
+##### Ngày đầu tiên đẹp nhất trên đời.
+##### 
+Người đồng mình thương lắm con ơi.                     => NT : Điệp cấu trúc
 Cao đo nỗi buồn
 Xa nuôi chí lớn
 Dẫu làm sao thì cha vẫn muốn
-Sống trên đá không chê đá gập ghềnh.                  ####### => NT : điệp ngữ, từ gợi cảm
-Sống trong thung không chê thung nghèo đói            ######⬆
+Sống trên đá không chê đá gập ghềnh.                   => NT : điệp ngữ, từ gợi cảm
+Sống trong thung không chê thung nghèo đói            ⬆
 Sống như sông như suối                                 => NT : so sánh, sử dụng thành ngữ
 Lên thác xuống ghềnh                                  ⬆
 Không lo cực nhọc                                     ⬆
